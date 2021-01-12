@@ -1,3 +1,3 @@
-module "github.com/Comdex/imgo"
+module "github.com/keatsyh/imgo"
 
-go 1.12
+go 1.15
